@@ -12,6 +12,8 @@ o percentual de aumento aplicado;
 o valor do aumento;
 o novo salário, após o aumento.
 
+-------------------------------------------------------
+
 salario = float(input("Digite seu salario\n"))
 
 if(salario<=280): 
