@@ -1,3 +1,8 @@
+#51- Ler diversos números e exibir qual foi a soma.
+#O valor -999 é o código de fim da entrada.
+
+#------------------------------------------------------------------------
+
 soma=0
 numero =int(input("Digite um numero:(digite -999 para encerrar a soma)\n"))
 
