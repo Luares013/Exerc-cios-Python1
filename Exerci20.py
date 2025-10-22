@@ -1,8 +1,8 @@
-20 -Faça um Programa que peça um número
-correspondente a um determinado ano e em
-seguida informe se este é bissexto. 
+#20 -Faça um Programa que peça um número
+#correspondente a um determinado ano e em
+#seguida informe se este é bissexto. 
 
----------------------------------------------------
+#---------------------------------------------------
 
 ano=int(input("Digite o ano que quer analisar:\n"))
 

@@ -1,8 +1,9 @@
-2 - Faça um algoritmo que leia o nome e as notas
-dos 4 bimestres de um aluno.
-Posteriormente imprima o resultado de cada
-variável linha abaixo de linha.
+#2 - Faça um algoritmo que leia o nome e as notas
+#dos 4 bimestres de um aluno.
+#Posteriormente imprima o resultado de cada
+#variável linha abaixo de linha.
 
+#-------------------------------------------------
 
 nome = input("Digite seu nome\n")
 n1 = int (input("Digite a primeira nota:\n"))

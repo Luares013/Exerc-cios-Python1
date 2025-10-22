@@ -1,7 +1,7 @@
-16 - Faça um Programa que leia três números e mostre o
-maior e o menor deles.
+#16 - Faça um Programa que leia três números e mostre o
+#maior e o menor deles.
 
----------------------------------------------------------
+#---------------------------------------------------------
 
 numero1 = int(input("Digite um numero:\n"))
 numero2 = int(input("Digite o segundo numero:\n"))

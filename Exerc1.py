@@ -1,9 +1,9 @@
-1 - Faça um algoritmo que leia o nome, a idade, o
-sexo, o endereço e o telefone.
-Posteriormente imprima o resultado de cada
-variável linha abaixo de linha
+#1 - Faça um algoritmo que leia o nome, a idade, o
+#sexo, o endereço e o telefone.##
+#Posteriormente imprima o resultado de cada##
+#variável linha abaixo de linha##
 
-
+#------------------------------------------
 
 Nome = input("Digite seu nome:")
 Idade = input("Digite sua idade:")

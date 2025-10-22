@@ -1,9 +1,9 @@
-19 -Faça um Programa que peça os 3 lados de
-um triângulo. Indique, caso os lados formem um
-triângulo, se o mesmo é: equilátero, isósceles ou
-escaleno.
+#19 -Faça um Programa que peça os 3 lados de
+#um triângulo. Indique, caso os lados formem um
+#triângulo, se o mesmo é: equilátero, isósceles ou
+#escaleno.
 
-------------------------------------------------
+#------------------------------------------------
 
 print("VAMOS FORMAR UM TRIANGULO E VER QUAL TIPO DE TRIANGULO ELE SERA")
 

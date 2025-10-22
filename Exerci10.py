@@ -1,6 +1,8 @@
-10 - Faça um algoritmo que verifique se o número
-digitado é menor, maior ou igual a 10 e apresente
-a mensagem referente ao número.
+#10 - Faça um algoritmo que verifique se o número
+#digitado é menor, maior ou igual a 10 e apresente
+#a mensagem referente ao número.
+
+#----------------------------------------------------
 
 numero = int(input("Digite um numero :\n"))
 

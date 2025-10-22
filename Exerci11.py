@@ -6,6 +6,8 @@
 #65-100 anos Idoso
 #Acima de 101 anos Muito velhinho
 
+#------------------------------------------------------
+
 nome = input("Digite o nome da pessoa:\n")
 idade = int(input("Digite sua idade:\n"))
 

@@ -1,5 +1,7 @@
-12 - Faça um algoritmo que verifique se o número
-digitado é positivo ou negativo.
+#12 - Faça um algoritmo que verifique se o número
+#digitado é positivo ou negativo.
+
+#--------------------------------------------
 
 numero = int(input("Digite um numero:\n"))
 

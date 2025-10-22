@@ -1,10 +1,10 @@
-5 - Faça um algoritmo que leia o nome do aluno,
-o nome da disciplina, notas de 3 provas e calcule
-a média desse aluno.
-Posteriormente imprima o resultado de cada
-variável linha abaixo de linha.
+#5 - Faça um algoritmo que leia o nome do aluno,
+#o nome da disciplina, notas de 3 provas e calcule
+#a média desse aluno.
+#Posteriormente imprima o resultado de cada
+#variável linha abaixo de linha.
 
-
+#---------------------------------------------------
 
 nome = input("Digite seu nome:\n")
 disciplina = input("Digite a disciplina:\n")
